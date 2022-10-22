@@ -1,3 +1,3 @@
-# IM Mining Arguments in Political Discourse
+# Mining Arguments in Political Domain with Transformer Language Models 
 
 This repo contains code for IM on arguments mining in political discourse
