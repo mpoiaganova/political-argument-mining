@@ -1,0 +1,7 @@
+﻿;bert-t1-sent;bert-t2-sent;rob-t1-sent;rob-t2-sent;bert-t2-adu;rob-t2-adu
+model;bert-base-uncased;bert-base-uncased;chkla/roberta-argument;roberta-base;bert-base-uncased;roberta-base
+lr;2,00E-05;2,00E-06;2,00E-05;2,00E-06;1,00E-05;1,00E-05
+batch size;16;16;16;16;16;16
+num epochs;2;2;2;2;2;2
+dropout;0.2;0.1;0.2;0.1;0.2;0.2
+random seed;52;20;52;20;42;42
