@@ -13,7 +13,7 @@ detection (predict whether the utterance
 is an argument or not) and argument
 component identification (predict whether
 the argumentative utterance is a claim or
-a premise). We implementing BERT and
+a premise). We implement BERT and
 RoBERTa models and approach both tasks
 on the sentence-level. The second task,
 component identification, is also modelled
