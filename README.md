@@ -2,7 +2,7 @@
 
 ## Project description 
 
-This repository was developed as part of the Master's individual research project carried out at the University of Potsdam, Germany. Please find our detailed report [here](https://github.com/a-moi/political-argument-mining/blob/main/IM-final.pdf). 
+This repository was developed as part of the Master's individual research project carried out at the University of Potsdam, Germany. Please find our detailed report [here](https://github.com/a-moi/political-argument-mining/blob/main/report.pdf). 
 
 **Abstract**
 
