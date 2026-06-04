@@ -10,14 +10,23 @@ This paper addresses the problem of cross-register generalization in argument mi
 
 ### Cite
 ```
-@inproceedings{PoiaganovaStede-ArgMin-2025,
-    author = "Poiaganova, Maria and Stede, Manfred",
-    title = "{From Debates to Diplomacy: Argument Mining Across Political Registers}",
-    booktitle = "Proceedings of the 12th Argument Mining Workshop at ACL",
+@inproceedings{poiaganova-stede-2025-debates,
+    title = "From Debates to Diplomacy: Argument Mining Across Political Registers",
+    author = "Poiaganova, Maria  and
+      Stede, Manfred",
+    editor = "Chistova, Elena  and
+      Cimiano, Philipp  and
+      Haddadan, Shohreh  and
+      Lapesa, Gabriella  and
+      Ruiz-Dolz, Ramon",
+    booktitle = "Proceedings of the 12th Argument mining Workshop",
+    month = jul,
     year = "2025",
-    address = "Vienna",
-    pdf = "",
-    note = "(to appear)",
-    keywords = ""
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.argmining-1.20/",
+    doi = "10.18653/v1/2025.argmining-1.20",
+    pages = "205--216",
+    ISBN = "979-8-89176-258-9"
 }
 ```
